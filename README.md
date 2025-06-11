@@ -19,10 +19,17 @@ A ferramenta foi estruturada em Excel, utilizando fórmulas avançadas para cál
 
 ## 🔧 Como Usar
 
-1. Baixe a planilha do repositório: https://hermes.dio.me/files/assets/a04b81b1-8e35-4e72-aeb9-98aed8ed4403.xlsx
+1. Baixe a planilha do repositório.
 2. Preencha os campos de investimento conforme seu perfil.
 3. Analise as simulações de retorno ao longo dos anos.
 4. Ajuste valores conforme necessário para otimizar sua estratégia.
+
+## 📄 Download da Planilha
+
+Para utilizar a ferramenta, baixe a planilha clicando no link abaixo:
+
+🔗 [Baixar a planilha de simulação](https://github.com/alexsoethe/FIIs_Excel/blob/main/Ferramenta_Investimentos.xlsx)
+   
 
 ## 💡 Contribuição
 
